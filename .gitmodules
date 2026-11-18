@@ -1,0 +1,4 @@
+[submodule "lib/meridian-core"]
+    path = lib/meridian-core
+    url = https://github.com/AntonioLuis-dev/meridian-core.git
+    branch = main

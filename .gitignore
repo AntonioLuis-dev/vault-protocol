@@ -1,0 +1,6 @@
+out/
+broadcast/
+node_modules/
+.env
+*.swp
+*.swo
